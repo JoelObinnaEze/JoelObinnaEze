@@ -9,15 +9,15 @@
 I'm Joel — a full-stack developer based in Calgary with a background in data handling, cloud services, and application development.  
 I'm currently working on **MamaHawk**, a chat-based mobile app designed to help users lose weight and build healthier habits.  
 
-When I'm not coding, I enjoy learning about emerging technologies and improving systems through elegant, scalable solutions.
+When I'm not coding, I enjoy playing videogames and playing ping pong.
 
 ---
 
 ### 🛠 Skills & Tools  
 - **Languages:** Python | Java | JavaScript | TypeScript | C/C++ | SQL | HTML/CSS  
-- **Frameworks & Libraries:** React Native | Django | Flask | Node.js | Bootstrap | Tailwind | CustomTkinter  
-- **Cloud & Platforms:** Firebase | AWS | Google Cloud | Docker | Git | GitHub | SQLite | MongoDB | MySQL  
-- **Other Tools:** yFinance | Pandas | Matplotlib | Unity | Unreal Engine  
+- **Frameworks & Libraries:** React Native | Django | Flask | Node.js | Bootstrap | CustomTkinter  
+- **Cloud & Platforms:** AWS | Google Cloud | Docker | Git | GitHub | SQLite | MongoDB | MySQL  
+- **Other Tools:** Numpy | Pandas | Matplotlib | Unity | Unreal Engine  
 
 ---
 
