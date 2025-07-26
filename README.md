@@ -23,12 +23,11 @@ When I'm not coding, I enjoy playing videogames and playing ping pong.
 
 ## 🔭 Projects in Progress  
 - 📱 **[MamaHawk](https://github.com/JoelObinnaEze/MamaHawk)** – A React Native chat engine for weight loss support  
-- 📊 Building out personal projects involving finance APIs, AI chat, and data visualization  
+- 📊 Polishing personal projects involving finance APIs, AI chat, and data visualization  
 
 ---
 
 ## 🌱 Currently Exploring  
-- 🔧 TypeScript & Firebase integration  
 - 🧠 AI, NLP, and GPT-based tools  
 - 🔐 Cloud security and full-stack app scaling  
 
