@@ -6,7 +6,7 @@
 ---
 
 ## 🌟 About Me  
-I'm Joel — a full-stack developer based in Calgary with a background in data handling, cloud services, and application development.  
+I'm Joel, a full-stack developer based in Calgary with a background in data handling, cloud services, and application development.  
 I'm currently working on **MamaHawk**, a chat-based mobile app designed to help users lose weight and build healthier habits.  
 
 When I'm not coding, I enjoy playing videogames and playing ping pong.
