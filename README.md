@@ -6,6 +6,14 @@ I build across the hardware/software boundary: from byte-level protocols and dig
 
 [LinkedIn](https://www.linkedin.com/in/joel-obinna-eze-5a1a262a2) · [Repositories](https://github.com/JoelObinnaEze?tab=repositories)
 
+## In progress
+
+### FPGA 2D Graphics Accelerator and Memory System
+
+`SystemVerilog` `FPGA` `SDRAM` `SPI` `RP2040`
+
+Building a SystemVerilog graphics accelerator around an SDRAM-backed RGB565 framebuffer, with command buffering, burst transfers, and an SPI control path for an RP2040. Current work is focused on memory arbitration, self-checking testbenches, and timing closure for 640 × 480 output.
+
 ## Featured projects
 
 ### [Embedded Telemetry Link](https://github.com/JoelObinnaEze/embedded-telemetry-link)
