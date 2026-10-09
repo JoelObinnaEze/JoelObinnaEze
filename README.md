@@ -10,8 +10,6 @@ I build across the hardware/software boundary: from byte-level protocols and dig
 
 ### [FPGA 2D Graphics Accelerator](https://github.com/JoelObinnaEze/fpga-2d-graphics-accelerator)
 
-[![Autonomous Pong running on a Tang Nano 20K and RP2040](https://raw.githubusercontent.com/JoelObinnaEze/fpga-2d-graphics-accelerator/main/media/pong-hardware.jpg)](https://github.com/JoelObinnaEze/fpga-2d-graphics-accelerator)
-
 `SystemVerilog` `FPGA` `SDRAM` `SPI` `RP2040` `DVI`
 
 Hardware-validated 2D graphics accelerator on a Tang Nano 20K with an RP2040 host. It renders autonomous Pong into a double-buffered RGB565 SDRAM framebuffer and produces 640 × 480 DVI-compatible video. The design includes CRC-protected command transport, burst scanout, clock-domain crossing, timing closure at 162 MHz, and 22 self-checking RTL/C tests. [Watch the hardware demo.](https://github.com/JoelObinnaEze/fpga-2d-graphics-accelerator/blob/main/media/pong-demo.mp4)
