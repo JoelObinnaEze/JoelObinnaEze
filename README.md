@@ -6,15 +6,15 @@ I build across the hardware/software boundary: from byte-level protocols and dig
 
 [LinkedIn](https://www.linkedin.com/in/joel-obinna-eze-5a1a262a2) · [Repositories](https://github.com/JoelObinnaEze?tab=repositories)
 
-## In progress
-
-### FPGA 2D Graphics Accelerator and Memory System
-
-`SystemVerilog` `FPGA` `SDRAM` `SPI` `RP2040`
-
-Building a SystemVerilog graphics accelerator around an SDRAM-backed RGB565 framebuffer, with command buffering, burst transfers, and an SPI control path for an RP2040. Current work is focused on memory arbitration, self-checking testbenches, and timing closure for 640 × 480 output.
-
 ## Featured projects
+
+### [FPGA 2D Graphics Accelerator](https://github.com/JoelObinnaEze/fpga-2d-graphics-accelerator)
+
+[![Autonomous Pong running on a Tang Nano 20K and RP2040](https://raw.githubusercontent.com/JoelObinnaEze/fpga-2d-graphics-accelerator/main/media/pong-hardware.jpg)](https://github.com/JoelObinnaEze/fpga-2d-graphics-accelerator)
+
+`SystemVerilog` `FPGA` `SDRAM` `SPI` `RP2040` `DVI`
+
+Hardware-validated 2D graphics accelerator on a Tang Nano 20K with an RP2040 host. It renders autonomous Pong into a double-buffered RGB565 SDRAM framebuffer and produces 640 × 480 DVI-compatible video. The design includes CRC-protected command transport, burst scanout, clock-domain crossing, timing closure at 162 MHz, and 22 self-checking RTL/C tests. [Watch the hardware demo.](https://github.com/JoelObinnaEze/fpga-2d-graphics-accelerator/blob/main/media/pong-demo.mp4)
 
 ### [Embedded Telemetry Link](https://github.com/JoelObinnaEze/embedded-telemetry-link)
 
